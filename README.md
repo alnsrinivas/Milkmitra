@@ -39,16 +39,17 @@ To ensure scalability and maintainability, the following engineering practices w
 
 ### Installation
 1. **Clone the repository:**
-   git clone [https://github.com/alnsrinivas/Milkmitra
+   git clone https://github.com/alnsrinivas/Milkmitra
    cd MilkTmitra
 2. **Install dependencies:**
    npm install
-3. **Environment Setup:** Create a .env file in the root folder and add:
+3. **Environment Setup:**
+ Create a .env file in the root folder and add:
    Code snippet
     PORT=5000
     MONGO_URI=your_mongodb_connection_string
     JWT_SECRET=your_random_secret_key
-4. **Run the application:**
+5. **Run the application:**
     npm start
    The app will be running at http://localhost:5000
    

@@ -39,7 +39,7 @@ To ensure scalability and maintainability, the following engineering practices w
 
 ### Installation
 1. **Clone the repository:**
-   git clone [https://github.com/](https://github.com/)[YOUR_GITHUB_USERNAME]/MilkTmitra.git
+   git clone [https://github.com/alnsrinivas/Milkmitra
    cd MilkTmitra
 2. **Install dependencies:**
    npm install
@@ -51,5 +51,7 @@ To ensure scalability and maintainability, the following engineering practices w
 4. **Run the application:**
     npm start
    The app will be running at http://localhost:5000
+   
 👤 Author
+
 Alam.Lakshmi Naga Srinivas.
